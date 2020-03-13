@@ -17,6 +17,7 @@ gem 'bank_card_info'
 BankCardInfo.bank_card_info("6214680014567106")
 
 结果:
+
 {:bank_name=>"北京银行", :bank_code=>"BJBANK", :card_number=>"6214680014567106", :card_type=>"DC", :card_type_name=>"储蓄卡"}
 ```
 
