@@ -3,6 +3,14 @@
 通过银行卡号返回银行名称、银行缩写code、银行卡类型
 
 
+## 安装：
+```
+gem install bank_card_info
+
+gem 'bank_card_info'
+```
+
+
 ## 返回银行卡号信息:
 
 ```
